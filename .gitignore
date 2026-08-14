@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Backups / archives
+*.tar.gz
+*.py~
+voice_bridge_backup.py
+voice_bridge_before_*.py
+voice_bridge_final_backup.py
+voice_bridge_before_final_backup.py
+
+# Runtime-generated UI files
+ui/chat.json
+ui/state.json
+
+# Old/temporary voice file
+voic
